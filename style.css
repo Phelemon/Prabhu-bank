@@ -1,0 +1,28 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.top{
+    background: red;
+    color: white;
+}
+.ab{
+    justify-content: space-between;
+}
+@media (mad-width: 1200px){
+    .container{
+        max-width: 1280px;
+    }
+}
+.banner{
+    height: 60vh;
+    background: url(https://www.prabhubank.com/assets/backend/uploads/Banner/banner_2.jpg);
+    background-size: cover;
+}
+.bc{
+    width: 40%;
+    min-height: 250px;
+    background: #ffffff71;
+    border-radius: 20px;
+}
